@@ -1,0 +1,7 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(demo1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  connecToServer.cpp
+D:\PL\CPP\gameServer\BoxPushing\connecToServer.cpp(56,9): warning C4244: “return”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\PL\CPP\gameServer\BoxPushing\connecToServer.cpp(114,9): warning C4244: “return”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\PL\CPP\gameServer\BoxPushing\connecToServer.cpp(353,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\PL\CPP\gameServer\BoxPushing\connecToServer.cpp(357,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  demo1.vcxproj -> D:\PL\CPP\gameServer\BoxPushing\x64\Debug\推箱子.exe
